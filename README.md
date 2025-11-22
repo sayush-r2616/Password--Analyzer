@@ -23,13 +23,18 @@ No backend needed
 Works offline
 100% safe — password never leaves device.
 6. Clean Mobile Friendly UI
+   
 ⭐ TECH STACK
 For your simple version:
+
 Frontend
 HTML5 → Structure of the page
+
 CSS3 → Styling (color bar, layout, mobile responsive)
+
 JavaScript → Logic for password checking (regex-based rules)
 Works on both mobile and desktop.
-📌 Example Output 
-Input:
-Password:  Hello123
+
+📌 Example Output :
+
+Password:  Hello123.?
